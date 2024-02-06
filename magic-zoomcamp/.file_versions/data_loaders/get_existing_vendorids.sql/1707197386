@@ -1,0 +1,2 @@
+SELECT VendorID FROM mage.green_taxi
+GROUP BY VendorID

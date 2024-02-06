@@ -1,0 +1,2 @@
+SELECT VendorID FROM mage.green_cab_data
+GROUP BY VendorID
