@@ -167,8 +167,11 @@ node_modules
 
 # Scratch files
 scratch*
-/mage_data*
+#/mage_data*
 *secrets*.json
 magic-zoomcamp
 *.json
+*.csv
 
+# Key Files
+/personal-gcp.json
